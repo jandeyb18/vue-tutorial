@@ -1,8 +1,7 @@
 <template>
-    <div>
-        Meal List   
-    </div>
+    Login
 </template>
 
 <script setup>
+
 </script>
